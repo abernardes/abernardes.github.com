@@ -1,0 +1,12 @@
+---
+layout: default
+title: andre bernardes
+---
+<div class="lead text-muted">
+  I don't always write articles but, when I do, this is where I put them.
+</div>
+<ul class="list-unstyled">
+  {% for post in site.posts %}
+    <li> <span class="text-muted">{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

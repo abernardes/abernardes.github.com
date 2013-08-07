@@ -1,0 +1,19 @@
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
+.lead {
+  padding: 20px 0;
+}
+
+body {
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+.post-header {
+  padding: 10px 0 20px 0;
+}
