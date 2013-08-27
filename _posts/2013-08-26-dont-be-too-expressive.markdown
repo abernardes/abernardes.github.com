@@ -19,3 +19,5 @@ So why we don't save our code readers (which can include my future self) the tro
 So if I'm reading the code and I know what a *locked user* is, great. If I don't, then I'll go looking for a definition (bonus points if your method body does that clearly). If you don't know the words, go ask someone. I can bet it's in the business domain language.
 
 Using too long method names is just as bad as using too short ones. Be expressive but keep it concise.
+
+Comments on this article available on [hacker news](https://news.ycombinator.com/item?id=6280647).
