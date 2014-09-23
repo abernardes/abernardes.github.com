@@ -64,7 +64,7 @@ So, here's an example of a spec for the view above. Again, I'm using RSpec.
 
 ```ruby
 describe 'plan/_form.html.erb' do
-  context 'current_user isn't a subscriber of the plan' do
+  context "current_user isn't a subscriber of the plan" do
     it "hides the link to An Awesome Feature" do
       user = FactoryGirl.build(:user)
       assign(:plan, FactoryGirl.build(:plan))
