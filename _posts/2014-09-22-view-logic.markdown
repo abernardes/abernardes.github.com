@@ -181,4 +181,4 @@ Whenever possible find, isolate and add unit tests to business logic. Presenters
 
 Test the business rule, and avoid more expensive testing strategies. If absolutely necessary, prefer view testing over acceptance testing.
 
-Questions? Thoughts? Comment on the HN thread:
+Questions? Thoughts? Give me a shout on [twitter](http://twitter.com/abernardes) or comment on the [HN thread](https://news.ycombinator.com/item?id=8353465).
