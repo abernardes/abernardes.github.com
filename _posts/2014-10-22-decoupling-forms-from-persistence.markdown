@@ -142,4 +142,4 @@ The basic rationale is: I check the data coming into my system **at the border**
 
 I wish I could write more on how to use Form Objects for validation and conversion, but this post is already long enough.  I intend to expand on that in a future post.
 
-This is what I have for now on Form Objects. Thoughts? Comments? Hit me up [on twitter](http://twitter.com/abernardes) or comment on Hacker News.
+This is what I have for now on Form Objects. Thoughts? Comments? Hit me up [on twitter](http://twitter.com/abernardes) or [comment on Hacker News](https://news.ycombinator.com/item?id=8424532).
