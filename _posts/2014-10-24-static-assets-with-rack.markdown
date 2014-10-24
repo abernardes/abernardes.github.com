@@ -37,4 +37,4 @@ Notes:
 
 Hope that helps! Cheers!
 
-Thoughts? Comments? Post them to [this Reddit thread](#) or hit me up on [twitter](http://twitter.com/abernardes).
+Thoughts? Comments? Post them to [this Reddit thread](http://www.reddit.com/r/ruby/comments/2k6x53/serving_static_assets_with_rack) or hit me up on [twitter](http://twitter.com/abernardes).
