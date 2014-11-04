@@ -116,4 +116,4 @@ The inverted dependency reduced code coupling, leading to more flexible, testabl
 
 In case you’re interested, [here’s the full diff](https://github.com/rom-rb/rom/commit/5567e12413987d62570e5763318ae10e90a97ae0).
 
-Questions? Thoughts? Comment on this [Reddit thread](#) or hit me up on [twitter](http://twitter.com/abernardes).
+Questions? Thoughts? Comment on this [Reddit thread](http://www.reddit.com/r/ruby/comments/2l91t3/inverting_dependencies/) or hit me up on [twitter](http://twitter.com/abernardes).
